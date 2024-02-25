@@ -22,7 +22,7 @@ pip install opencv-python numpy
 Clone this repository to your local machine to get started:
 
 ```
-git clone https://github.com/yourusername/motion-detection-system.git
+https://github.com/alikhan37544/Basic_OpenCV_Edge-and-Object-Detetcion.git
 ```
 
 Navigate to the cloned directory:
